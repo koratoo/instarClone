@@ -178,6 +178,7 @@ article.card main .carousel ul{
 
 article.card main .carousel ul>li{
 	display: inline-block; /* 이미지 가로로 나열하기 */
+	margin-right:-5px;
 }
 
 article.card main .carousel ul>li img{
